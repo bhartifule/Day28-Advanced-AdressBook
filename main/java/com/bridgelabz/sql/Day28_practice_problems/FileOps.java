@@ -4,10 +4,6 @@ import java.io.IOException;
 import java.util.HashMap;
 
 public class FileOps {
-	 void writeDataToDestination(HashMap<String, AddressBook> addressBookHashMap) throws IOException {} 
-	 
-	
-	    void readDataFromSource() throws IOException {
-		}
-
+	 void writeDataToDestination(HashMap<String, AddressBook> addressBookHashMap) throws IOException{}
+	    void readDataFromSource() throws IOException{}
 }
