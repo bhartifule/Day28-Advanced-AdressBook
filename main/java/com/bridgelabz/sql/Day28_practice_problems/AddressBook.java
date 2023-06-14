@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class AddressBook {
+public class AddressBook
+{
 	 ArrayList<ContactPerson> contactList = new ArrayList<>();
 	    HashMap<String,ArrayList<ContactPerson>> contactsByCity = new HashMap<>();
 	    HashMap<String,ArrayList<ContactPerson>> contactsByState = new HashMap<>();
