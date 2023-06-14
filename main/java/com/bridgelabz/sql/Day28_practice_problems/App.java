@@ -5,6 +5,7 @@ package com.bridgelabz.sql.Day28_practice_problems;
  *
  */
 public class App 
+    
 {
     public static void main( String[] args )
     {
